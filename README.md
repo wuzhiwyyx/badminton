@@ -2,11 +2,13 @@
 
 ## 1. 羽毛球拍
 
-[ASTROX 100ZZ](https://www.badmintoncn.com/cbo_eq/view.php?eid=7717) $￥~1500$
+>  三选二或者三选一
 
-[雷霆80](https://www.badmintoncn.com/cbo_eq/view.php?eid=9748) $￥1000$
+- [x] [ASTROX 100ZZ](https://www.badmintoncn.com/cbo_eq/view.php?eid=7717) $￥~1500$ 石宇奇冠军拍
 
-[雷霆80龙年限定](https://detail.tmall.com/item.htm?spm=a21n57.1.item.4.db886f02YAq1nk&priceTId=215044c917210520906008295e5448&utparam=%7B%22aplus_abtest%22:%222a8978de3cd4ab71eab9700d6e417d5f%22%7D&id=654915558084&ns=1&abbucket=3&skuId=5329374184265) $￥1900$
+- [ ] [雷霆80](https://www.badmintoncn.com/cbo_eq/view.php?eid=9748) $￥1000$
+
+- [x] [雷霆80龙年限定](https://detail.tmall.com/item.htm?spm=a21n57.1.item.4.db886f02YAq1nk&priceTId=215044c917210520906008295e5448&utparam=%7B%22aplus_abtest%22:%222a8978de3cd4ab71eab9700d6e417d5f%22%7D&id=654915558084&ns=1&abbucket=3&skuId=5329374184265) $￥1900$ 谌龙奥运冠军拍
 
 <img src="images\image-20240715221030424.png" alt="image-20240715221030424" style="zoom: 50%;" />
 
