@@ -14,7 +14,7 @@
 
 # 2. 羽毛球鞋
 
-[无敌号ACE 雪地迷彩](https://www.badmintoncn.com/cbo_eq/view.php?eid=10973) $￥500$
+[无敌号ACE 雪地迷彩](https://www.badmintoncn.com/cbo_eq/view.php?eid=10973) $￥600$
 
 <img src="images\shoes.png" alt="image-20240715221328860" style="zoom:50%;" />
 
@@ -28,7 +28,7 @@ https://detail.tmall.com/item.htm?spm=a21n57.1.item.3.4ae610122OOxWm&priceTId=21
 
 # 4. 羽毛球服
 
-定制大赛服，背后印Shuwei Hao
+定制大赛服，背后印Shuwei Hao $￥100$
 
 <img src="images\image-20240715220657287.png" alt="image-20240715220657287" style="zoom:50%;" />
 
